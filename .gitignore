@@ -1,3 +1,4 @@
 /.svn
 /node_modules
 /public
+/.deploy_git/
